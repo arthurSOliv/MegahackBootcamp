@@ -1,0 +1,39 @@
+.nav-item{
+    margin-left: 40px;
+}
+
+.navbar-text:hover{
+    font-size: 30px;
+}
+
+.MuiPaper-root{
+    background-color: #ffcfad !important;
+}
+
+.MuiPaper-root h2{
+    color: #806857 !important;
+}
+
+.MuiFormControl-root{
+    margin-bottom: 20px !important;
+    width: 100% !important;
+    background-color: none !important;
+}
+
+.menuIcon{
+    margin-right: 20px;
+}
+
+.modal{
+    background-color: #ffcfad;
+}
+
+.MuiChip-root{
+    background-color: #fff !important;
+    border: 2px solid #806857 !important;
+    margin: 5px !important;
+}
+
+.MuiChip-deleteIcon{
+    color: #806857 !important;
+}
